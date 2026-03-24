@@ -1,0 +1,4 @@
+Ticker,Company_Name,Current_Price,Market_Cap,PE_Ratio,Dividend_Yield
+AAPL,Apple Inc.,225.42,3456000000000,35.12,0.45%
+MSFT,Microsoft Corporation,418.27,3112000000000,36.45,0.72%
+GOOGL,Alphabet Inc.,182.75,2245000000000,26.84,0.48%
